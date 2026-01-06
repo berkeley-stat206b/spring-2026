@@ -1,24 +1,16 @@
 ---
-title: "Dept 999: Generic Description"
+title: "Stat 206b: Stochastic Processes"
 subtitle: "UC Berkeley, Spring 2026"
 ---
 
-Welcome to Department 999, a comprehensive introduction to the fundamental concepts and methodologies that form the backbone of modern academic inquiry. This course is designed to provide students with both theoretical understanding and practical skills necessary for success in their chosen field of study.
+Introduction to Integrable Probability (Math 223b/Stat 206b) uses [bCourses](https://bcourses.berkeley.edu/courses/1551120) in Spring 2026.
 
-## Course Overview
+## Course Topics
 
-The course meets twice weekly for lectures and once weekly for discussion sections. Additionally, there are regular laboratory sessions where you'll apply theoretical concepts to real-world problems. Guest speakers from industry and academia will provide insights into current applications and career opportunities. 
+This course introduces probabilistic models in which large-dimensional stochastic systems can be analyzed exactly using algebraic techniques. Principal examples arise in two-dimensional statistical mechanics, including random tilings, last passage percolation, six-vertex model, interacting particle systems, and random matrices. On the methods side, we will do many computations in the algebra of symmetric polynomials, learn about determinantal point processes, and use of difference operators in the asymptotic analysis.
 
-:::{attention} There is a quiz in [Week 2](#week2)!
-:class: dropdown
-:icon: false
-👋
-:::
+## Prerequisites
 
-## Schedule
+Basics of probability theory, linear algebra, and complex analysis. Experience with rigorous mathematical proofs.
 
-The table below is rendered by the `schedule` plugin, contributed by [rowanc1](https://github.com/rowanc1). It is declared in `myst.yml` and contained within `schedule.mjs`. It reads in the data in `schedule.yml` and converts it into a table.
-
-:::{schedule} ./schedule.yml
-
-:::
+This is a graduate class. Undergraduates who would like to take the class, must attend the first lecture. After the lecture, they can contact the instructor for the enrollment code.
