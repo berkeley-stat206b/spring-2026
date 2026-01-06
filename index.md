@@ -1,5 +1,5 @@
 ---
-title: "Stat 206b: Stochastic Processes"
+title: "Stat 206b: Advanced Topics in Probablity and Stochastic Processes"
 subtitle: "UC Berkeley, Spring 2026"
 ---
 

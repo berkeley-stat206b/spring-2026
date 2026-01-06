@@ -2,7 +2,7 @@
 version: 1
 project:
   title: "Stat 206b"
-  description: "Stochastic Processes"
+  description: "Advanced Topics in Probablity and Stochastic Processes"
   keywords: []
   license:
     # code: MIT
